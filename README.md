@@ -51,6 +51,7 @@ The system processes frames in real time using a multi-threaded pipeline.
 Example ROI detection output:
 
 ![ROI-ezgif com-video-to-gif-converter2](https://github.com/user-attachments/assets/8d37c15d-3c84-4b5a-bdf3-006a354e443d)
+
 Note: ROI flickering is observed due to frame-wise depth noise. 
 Temporal smoothing and geometric consistency are currently being integrated.
 
