@@ -31,8 +31,7 @@ Cue Fusion
 ROI Detection
 
 
-<img width="1505" height="704" alt="Gemini_Generated_Image_opz936opz936opz9" src="https://github.com/user-attachments/assets/430d1922-db64-4873-8abd-aa98b88c5667" />
-
+<img width="1505" height="704" alt="Gemini_Generated_Image_opz936opz936opz9" src="https://github.com/user-attachments/assets/c41bad9c-4e4f-4441-8f01-a264304dba8f" />
 
 ---
 
