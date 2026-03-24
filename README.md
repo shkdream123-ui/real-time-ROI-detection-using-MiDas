@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a lightweight ROI (Region of Interest) detection pipeline using monocular depth estimation and optical flow.
+This project implements a lightweight ROI (Region of Interest) detection pipeline using monocular depth estimation and optical flow, with the goal of selectively extracting spatially informative regions for downstream robotic perception and decision-making under limited computational and sensing conditions. By prioritizing regions corresponding to nearby or dynamically changing objects, the system enables efficient allocation of computational resources for subsequent tasks such as obstacle-aware navigation and object-level scene decomposition. Furthermore, this approach can serve as a preliminary step toward separating object-level and structural components of a scene, facilitating more structured environment representation.
 
 Instead of relying on deep-learning-based object detectors, the system fuses multiple visual cues including:
 
